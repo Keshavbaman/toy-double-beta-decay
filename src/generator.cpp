@@ -1,3 +1,6 @@
+// Toy Monte Carlo generator for neutrinoless double beta decay
+// Author: Keshav Sharma
+// Purpose: Study kinematic features and summed-energy spectrum
 #include <iostream>
 #include <fstream>
 #include <random>
