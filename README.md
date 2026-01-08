@@ -24,6 +24,13 @@ This is a learning-oriented toy model and does not include:
 - Detector effects
 - Background modeling
 
+## Future Work
+Possible extensions of this project include:
+- Implementing a more realistic 2νββ energy spectrum
+- Extending the generator to Geant4-based detector simulations
+- Studying detector energy resolution effects
+- Comparing idealized spectra with experimental signatures
+
 ## Tools Used
 - C++
 - CERN ROOT
