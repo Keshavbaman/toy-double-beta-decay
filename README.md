@@ -18,17 +18,6 @@ electron energies peaks at the decay Q-value.
 The generated events are analyzed using CERN ROOT to obtain
 the summed-energy spectrum of the two electrons.
 
-## How to Run
-
-### 1. Compile and run the Monte Carlo generator
-The C++ program generates toy double beta decay events and writes
-electron energies to a text file.
-
-...bash
-g++ src/generator.cpp -o generator
-./generator
-
-
 ## Limitations
 This is a learning-oriented toy model and does not include:
 - Nuclear matrix elements
