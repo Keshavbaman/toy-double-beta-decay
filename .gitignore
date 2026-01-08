@@ -1,0 +1,12 @@
+# binaries
+generator
+*.o
+
+# data files
+events.dat
+
+# ROOT files
+*.root
+
+# editor temp files
+*~
