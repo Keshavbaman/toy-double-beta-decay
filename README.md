@@ -24,7 +24,7 @@ the summed-energy spectrum of the two electrons.
 The C++ program generates toy double beta decay events and writes
 electron energies to a text file.
 
-```bash
+...bash
 g++ src/generator.cpp -o generator
 ./generator
 
